@@ -5,7 +5,7 @@
 					"prestige": "95",
 					"hexColor": "#9E1B32",
 					"offCoordinator": {
-						"contractLength": "3",
+						"contractLength": "2",
 						"startYear": "2020",
 						"age": "35",
 						"cumulativePrestige": "0",
@@ -15,11 +15,11 @@
 						"ratTalent": "67",
 						"baselinePrestige": "95",
 						"coachingAbility": "75",
-						"name": "Steve Sarkisian",
+						"name": "Bill O'Brien",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "4",
 						"startYear": "2020",
 						"age": "36",
 						"cumulativePrestige": "0",
@@ -66,7 +66,7 @@
 						"ratTalent": "88",
 						"baselinePrestige": "90",
 						"coachingAbility": "75",
-						"name": "Billy Gonzalez",
+						"name": "Garrick McGee",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
@@ -107,7 +107,7 @@
 					"prestige": "90",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "51",
 						"cumulativePrestige": "0",
@@ -121,7 +121,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "4",
 						"startYear": "2020",
 						"age": "34",
 						"cumulativePrestige": "0",
@@ -155,7 +155,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -168,11 +168,11 @@
 						"ratTalent": "54",
 						"baselinePrestige": "80",
 						"coachingAbility": "75",
-						"name": "Jim Chaney",
+						"name": "Alex Golesh",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "42",
 						"cumulativePrestige": "0",
@@ -182,7 +182,7 @@
 						"ratTalent": "91",
 						"baselinePrestige": "80",
 						"coachingAbility": "61",
-						"name": "Derrick Ansley",
+						"name": "Tim Banks",
 						"contractYear": "0"
 					},
 					"rival": "UGA",
@@ -198,7 +198,7 @@
 						"hometown": "Pea Ridge",
 						"ratTalent": "58",
 						"baselinePrestige": "80",
-						"name": "Jeremy Pruitt",
+						"name": "Josh Heupel",
 						"contractYear": "0"
 					},
 					"name": "Tennessee Volunteers",
@@ -206,7 +206,7 @@
 				},
 				{
 					"abbreviation": "AUB",
-					"prestige": "85",
+					"prestige": "80",
 					"hexColor": "#0C2340",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -219,11 +219,11 @@
 						"ratTalent": "94",
 						"baselinePrestige": "75",
 						"coachingAbility": "64",
-						"name": "Chad Morris",
+						"name": "Mike Bobo",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "45",
 						"cumulativePrestige": "0",
@@ -233,7 +233,7 @@
 						"ratTalent": "68",
 						"baselinePrestige": "75",
 						"coachingAbility": "64",
-						"name": "Kevin Steele",
+						"name": "Derek Mason",
 						"contractYear": "0"
 					},
 					"rival": "BAMA",
@@ -249,7 +249,7 @@
 						"hometown": "Athena",
 						"ratTalent": "50",
 						"baselinePrestige": "75",
-						"name": "Gus Malzahn",
+						"name": "Bryan Harsin",
 						"contractYear": "0"
 					},
 					"name": "Auburn Tigers",
@@ -257,7 +257,7 @@
 				},
 				{
 					"abbreviation": "LSU",
-					"prestige": "80",
+					"prestige": "85",
 					"hexColor": "#461D7C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -270,11 +270,11 @@
 						"ratTalent": "60",
 						"baselinePrestige": "75",
 						"coachingAbility": "69",
-						"name": "Steve Ensminger",
+						"name": "Jake Peetz",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "39",
 						"cumulativePrestige": "0",
@@ -284,7 +284,7 @@
 						"ratTalent": "93",
 						"baselinePrestige": "75",
 						"coachingAbility": "68",
-						"name": "Bo Pelini",
+						"name": "Daronte Jones",
 						"contractYear": "0"
 					},
 					"rival": "UF",
@@ -308,10 +308,10 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "70",
+					"prestige": "65",
 					"hexColor": "#14213D",
 					"offCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "43",
 						"cumulativePrestige": "0",
@@ -325,7 +325,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "53",
 						"cumulativePrestige": "0",
@@ -359,7 +359,7 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "65",
+					"prestige": "59",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -372,11 +372,11 @@
 						"ratTalent": "76",
 						"baselinePrestige": "65",
 						"coachingAbility": "66",
-						"name": "Eddie Gran",
+						"name": "Liam Coen",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "54",
 						"cumulativePrestige": "0",
@@ -410,10 +410,10 @@
 				},
 				{
 					"abbreviation": "MSST",
-					"prestige": "65",
+					"prestige": "60",
 					"hexColor": "#660000",
 					"offCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "46",
 						"cumulativePrestige": "0",
@@ -423,11 +423,11 @@
 						"ratTalent": "84",
 						"baselinePrestige": "65",
 						"coachingAbility": "67",
-						"name": "Eric Mele",
+						"name": "Steve Spurrier Jr",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "38",
 						"cumulativePrestige": "0",
@@ -461,10 +461,10 @@
 				},
 				{
 					"abbreviation": "VAND",
-					"prestige": "50",
+					"prestige": "45",
 					"hexColor": "#866D4B",
 					"offCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "55",
 						"cumulativePrestige": "0",
@@ -474,7 +474,7 @@
 						"ratTalent": "57",
 						"baselinePrestige": "50",
 						"coachingAbility": "74",
-						"name": "Todd Fitch",
+						"name": "David Raih",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
@@ -488,7 +488,7 @@
 						"ratTalent": "66",
 						"baselinePrestige": "50",
 						"coachingAbility": "71",
-						"name": "Ted Roof",
+						"name": "Jesse Minter",
 						"contractYear": "0"
 					},
 					"rival": "UK",
@@ -504,7 +504,7 @@
 						"hometown": "Rock Point",
 						"ratTalent": "81",
 						"baselinePrestige": "50",
-						"name": "Derek Mason",
+						"name": "Clark Lea",
 						"contractYear": "0"
 					},
 					"name": "Vanderbilt Commodores",
@@ -535,7 +535,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "37",
 						"cumulativePrestige": "0",
@@ -545,7 +545,7 @@
 						"ratTalent": "78",
 						"baselinePrestige": "90",
 						"coachingAbility": "82",
-						"name": "Don Brown",
+						"name": "Mike MacDonald",
 						"contractYear": "0"
 					},
 					"rival": "OSU",
@@ -569,10 +569,10 @@
 				},
 				{
 					"abbreviation": "OSU",
-					"prestige": "95",
+					"prestige": "94",
 					"hexColor": "#BB0000",
 					"offCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "38",
 						"cumulativePrestige": "0",
@@ -596,7 +596,7 @@
 						"ratTalent": "62",
 						"baselinePrestige": "90",
 						"coachingAbility": "82",
-						"name": "Greg Mattison",
+						"name": "Kerry Coombs",
 						"contractYear": "0"
 					},
 					"rival": "MICH",
@@ -620,7 +620,7 @@
 				},
 				{
 					"abbreviation": "MSU",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#18453B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -637,7 +637,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "33",
 						"cumulativePrestige": "0",
@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "90",
+					"prestige": "87",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -688,7 +688,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "35",
 						"cumulativePrestige": "0",
@@ -722,10 +722,10 @@
 				},
 				{
 					"abbreviation": "MINN",
-					"prestige": "80",
+					"prestige": "63",
 					"hexColor": "#7A0019",
 					"offCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "41",
 						"cumulativePrestige": "0",
@@ -739,7 +739,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "43",
 						"cumulativePrestige": "0",
@@ -773,7 +773,7 @@
 				},
 				{
 					"abbreviation": "IOWA",
-					"prestige": "75",
+					"prestige": "77",
 					"hexColor": "#FFCD00",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -790,7 +790,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "2",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "54",
 						"cumulativePrestige": "0",
@@ -800,7 +800,7 @@
 						"ratTalent": "69",
 						"baselinePrestige": "70",
 						"coachingAbility": "65",
-						"name": "Jon Heacock",
+						"name": "Phil Parker",
 						"contractYear": "0"
 					},
 					"rival": "ILL",
@@ -824,7 +824,7 @@
 				},
 				{
 					"abbreviation": "PUR",
-					"prestige": "65",
+					"prestige": "50",
 					"hexColor": "#CEB888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -841,7 +841,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "1",
+						"contractLength": "3",
 						"startYear": "2020",
 						"age": "45",
 						"cumulativePrestige": "0",
@@ -851,7 +851,7 @@
 						"ratTalent": "63",
 						"baselinePrestige": "65",
 						"coachingAbility": "62",
-						"name": "Bob Diaco",
+						"name": "Brad Lambert",
 						"contractYear": "0"
 					},
 					"rival": "IND",
@@ -875,7 +875,7 @@
 				},
 				{
 					"abbreviation": "IND",
-					"prestige": "65",
+					"prestige": "59",
 					"hexColor": "#990000",
 					"offCoordinator": {
 						"contractLength": "2",
