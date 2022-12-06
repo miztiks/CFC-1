@@ -32,7 +32,7 @@
 						"name": "Pete Golding",
 						"contractYear": "0"
 					},
-					"rival": "AUB",
+					"rival": "AUB", "UGA","TENN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -53,7 +53,7 @@
 				},
 				{
 					"abbreviation": "UF",
-					"prestige": "90",
+					"prestige": "80",
 					"hexColor": "#0021A5",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -104,7 +104,7 @@
 				},
 				{
 					"abbreviation": "UGA",
-					"prestige": "90",
+					"prestige": "95",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -134,7 +134,7 @@
 						"name": "Dan Lanning",
 						"contractYear": "0"
 					},
-					"rival": "TENN",
+					"rival": "TENN","BAMA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -155,7 +155,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "70",
+					"prestige": "88",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -185,7 +185,7 @@
 						"name": "Tim Banks",
 						"contractYear": "0"
 					},
-					"rival": "UGA",
+					"rival": "UGA","BAMA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -257,7 +257,7 @@
 				},
 				{
 					"abbreviation": "LSU",
-					"prestige": "85",
+					"prestige": "90",
 					"hexColor": "#461D7C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -308,7 +308,7 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "65",
+					"prestige": "75",
 					"hexColor": "#14213D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -359,7 +359,7 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "59",
+					"prestige": "75",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -409,8 +409,8 @@
 					"state": "Kentucky"
 				},
 				{
-					"abbreviation": "MSST",
-					"prestige": "60",
+					"abbreviation": "UMD",
+					"prestige": "80",
 					"hexColor": "#660000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -456,12 +456,12 @@
 						"name": "Mike Leach",
 						"contractYear": "0"
 					},
-					"name": "Mississippi State Bulldogs",
+					"name": "Meridan Raging Blue",
 					"state": "Mississippi"
 				},
 				{
 					"abbreviation": "VAND",
-					"prestige": "45",
+					"prestige": "55",
 					"hexColor": "#866D4B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -518,7 +518,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "MICH",
-					"prestige": "85",
+					"prestige": "95",
 					"hexColor": "#00274C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -620,7 +620,7 @@
 				},
 				{
 					"abbreviation": "MSU",
-					"prestige": "70",
+					"prestige": "77",
 					"hexColor": "#18453B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "87",
+					"prestige": "80",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -824,7 +824,7 @@
 				},
 				{
 					"abbreviation": "PUR",
-					"prestige": "50",
+					"prestige": "75",
 					"hexColor": "#CEB888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -875,7 +875,7 @@
 				},
 				{
 					"abbreviation": "IND",
-					"prestige": "59",
+					"prestige": "70",
 					"hexColor": "#990000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -926,7 +926,7 @@
 				},
 				{
 					"abbreviation": "NW",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#4E2A84",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -977,7 +977,7 @@
 				},
 				{
 					"abbreviation": "ILL",
-					"prestige": "40",
+					"prestige": "70",
 					"hexColor": "#E84A27",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1034,7 +1034,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "OU",
-					"prestige": "92",
+					"prestige": "90",
 					"hexColor": "#841617",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1085,7 +1085,7 @@
 				},
 				{
 					"abbreviation": "OKST",
-					"prestige": "76",
+					"prestige": "80",
 					"hexColor": "#FF7300",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1136,7 +1136,7 @@
 				},
 				{
 					"abbreviation": "KSU",
-					"prestige": "55",
+					"prestige": "80",
 					"hexColor": "#512888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1187,7 +1187,7 @@
 				},
 				{
 					"abbreviation": "ISU",
-					"prestige": "60",
+					"prestige": "70",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1493,7 +1493,7 @@
 				},
 				{
 					"abbreviation": "KU",
-					"prestige": "25",
+					"prestige": "60",
 					"hexColor": "#0051BA",
 					"offCoordinator": {
 						"contractLength": "1",
@@ -1550,7 +1550,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "UT",
-					"prestige": "91",
+					"prestige": "86",
 					"hexColor": "#BF5700",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1652,7 +1652,7 @@
 				},
 				{
 					"abbreviation": "TCU",
-					"prestige": "68",
+					"prestige": "92",
 					"hexColor": "#4D1979",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1703,7 +1703,7 @@
 				},
 				{
 					"abbreviation": "BAY",
-					"prestige": "55",
+					"prestige": "75",
 					"hexColor": "#003015",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1856,7 +1856,7 @@
 				},
 				{
 					"abbreviation": "ARK",
-					"prestige": "60",
+					"prestige": "75",
 					"hexColor": "#9D2235",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2060,7 +2060,7 @@
 				}
 			],
 			"confFullName": "Southwest Conference",
-			"confPrestige": "59",
+			"confPrestige": "75",
 			"confName": "SWC"
 		},
 		{
@@ -2168,7 +2168,7 @@
 				},
 				{
 					"abbreviation": "USC",
-					"prestige": "91",
+					"prestige": "94",
 					"hexColor": "#990000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2321,7 +2321,7 @@
 				},
 				{
 					"abbreviation": "CAL",
-					"prestige": "55",
+					"prestige": "70",
 					"hexColor": "#FDB515",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2372,7 +2372,7 @@
 				},
 				{
 					"abbreviation": "ORST",
-					"prestige": "55",
+					"prestige": "80",
 					"hexColor": "#DC4405",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2474,7 +2474,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "50",
+					"prestige": "75",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2520,7 +2520,7 @@
 						"name": "Chip Kelly",
 						"contractYear": "5"
 					},
-					"name": "Los Angeles Bruins",
+					"name": "UCLA Bruins",
 					"state": "California"
 				},
 				{
@@ -2684,7 +2684,7 @@
 				},
 				{
 					"abbreviation": "UNC",
-					"prestige": "69",
+					"prestige": "77",
 					"hexColor": "#7BAFD4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2837,7 +2837,7 @@
 				},
 				{
 					"abbreviation": "SCAR",
-					"prestige": "55",
+					"prestige": "75",
 					"hexColor": "#73000A",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2939,7 +2939,7 @@
 				},
 				{
 					"abbreviation": "NCST",
-					"prestige": "60",
+					"prestige": "80",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3149,7 +3149,7 @@
 				},
 				{
 					"abbreviation": "CIN",
-					"prestige": "65",
+					"prestige": "75",
 					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4130,7 +4130,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "UTAH",
-					"prestige": "78",
+                                        "prestige": "85",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4181,7 +4181,7 @@
 				},
 				{
 					"abbreviation": "BYU",
-					"prestige": "69",
+					"prestige": "80",
 					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4743,7 +4743,7 @@
 						"name": "Bill Clark",
 						"contractYear": "0"
 					},
-					"name": "Birmingham Blazers",
+					"name": "UAB Blazers",
 					"state": "Alabama"
 				},
 				{
@@ -5049,7 +5049,7 @@
 						"name": "Jeff Traylor",
 						"contractYear": "0"
 					},
-					"name": "San Antonio Roadrunners",
+					"name": "UTSA Roadrunners",
 					"state": "Texas"
 				},
 				{
