@@ -53,7 +53,7 @@
 				},
 				{
 					"abbreviation": "UF",
-					"prestige": "90",
+					"prestige": "80",
 					"hexColor": "#0021A5",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -155,7 +155,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "70",
+					"prestige": "90",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -308,7 +308,7 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "65",
+					"prestige": "75",
 					"hexColor": "#14213D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -359,7 +359,7 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "59",
+					"prestige": "69",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -410,7 +410,7 @@
 				},
 				{
 					"abbreviation": "MSST",
-					"prestige": "60",
+					"prestige": "70",
 					"hexColor": "#660000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -461,7 +461,7 @@
 				},
 				{
 					"abbreviation": "VAND",
-					"prestige": "45",
+					"prestige": "55",
 					"hexColor": "#866D4B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -512,13 +512,13 @@
 				}
 			],
 			"confFullName": "Southeastern Conference",
-			"confPrestige": "74",
+			"confPrestige": "80",
 			"confName": "SEC"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "MICH",
-					"prestige": "85",
+					"prestige": "93",
 					"hexColor": "#00274C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "87",
+					"prestige": "77",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -824,7 +824,7 @@
 				},
 				{
 					"abbreviation": "PUR",
-					"prestige": "50",
+					"prestige": "60",
 					"hexColor": "#CEB888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -926,7 +926,7 @@
 				},
 				{
 					"abbreviation": "NW",
-					"prestige": "75",
+					"prestige": "65",
 					"hexColor": "#4E2A84",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1028,7 +1028,7 @@
 				}
 			],
 			"confFullName": "Big Ten Conference",
-			"confPrestige": "70",
+			"confPrestige": "80",
 			"confName": "B1G"
 		},
 		{
@@ -1085,7 +1085,7 @@
 				},
 				{
 					"abbreviation": "OKST",
-					"prestige": "76",
+					"prestige": "82",
 					"hexColor": "#FF7300",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1136,7 +1136,7 @@
 				},
 				{
 					"abbreviation": "KSU",
-					"prestige": "55",
+					"prestige": "80",
 					"hexColor": "#512888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1544,7 +1544,7 @@
 				}
 			],
 			"confFullName": "Big 12 Conference",
-			"confPrestige": "58",
+			"confPrestige": "75",
 			"confName": "XII"
 		},
 		{
@@ -1652,7 +1652,7 @@
 				},
 				{
 					"abbreviation": "TCU",
-					"prestige": "68",
+					"prestige": "90",
 					"hexColor": "#4D1979",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1703,7 +1703,7 @@
 				},
 				{
 					"abbreviation": "BAY",
-					"prestige": "55",
+					"prestige": "70",
 					"hexColor": "#003015",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1856,7 +1856,7 @@
 				},
 				{
 					"abbreviation": "ARK",
-					"prestige": "60",
+					"prestige": "70",
 					"hexColor": "#9D2235",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2060,7 +2060,7 @@
 				}
 			],
 			"confFullName": "Southwest Conference",
-			"confPrestige": "59",
+			"confPrestige": "70",
 			"confName": "SWC"
 		},
 		{
@@ -2372,7 +2372,7 @@
 				},
 				{
 					"abbreviation": "ORST",
-					"prestige": "55",
+					"prestige": "80",
 					"hexColor": "#DC4405",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2474,7 +2474,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "50",
+					"prestige": "70",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2576,7 +2576,7 @@
 				}
 			],
 			"confFullName": "Pacific Athletic Conference",
-			"confPrestige": "64",
+			"confPrestige": "74",
 			"confName": "PAC10"
 		},
 		{
@@ -2684,7 +2684,7 @@
 				},
 				{
 					"abbreviation": "UNC",
-					"prestige": "69",
+					"prestige": "79",
 					"hexColor": "#7BAFD4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2837,7 +2837,7 @@
 				},
 				{
 					"abbreviation": "SCAR",
-					"prestige": "55",
+					"prestige": "70",
 					"hexColor": "#73000A",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2939,7 +2939,7 @@
 				},
 				{
 					"abbreviation": "NCST",
-					"prestige": "60",
+					"prestige": "70",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3092,7 +3092,7 @@
 				}
 			],
 			"confFullName": "Atlantic Coast Conference",
-			"confPrestige": "67",
+			"confPrestige": "75",
 			"confName": "ACC"
 		},
 		{
@@ -3144,7 +3144,7 @@
 						"name": "Manny Diaz",
 						"contractYear": "0"
 					},
-					"name": "Miami FL Hurricanes",
+					"name": "Miami Hurricanes",
 					"state": "Florida"
 				},
 				{
@@ -3434,7 +3434,7 @@
 						"name": "Tony White",
 						"contractYear": "0"
 					},
-					"rival": "RUT",
+					"rival": "ROC",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3454,8 +3454,8 @@
 					"state": "New York"
 				},
 				{
-					"abbreviation": "RUT",
-					"prestige": "40",
+					"abbreviation": "ROC",
+					"prestige": "70",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3501,8 +3501,8 @@
 						"name": "Greg Schiano",
 						"contractYear": "0"
 					},
-					"name": "Rutgers Scarlet Knights",
-					"state": "New Jersey"
+					"name": "Rochester Panthers",
+					"state": "New York"
 				},
 				{
 					"abbreviation": "BC",
