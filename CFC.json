@@ -53,7 +53,7 @@
 				},
 				{
 					"abbreviation": "UF",
-					"prestige": "90",
+					"prestige": "80",
 					"hexColor": "#0021A5",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -155,7 +155,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "70",
+					"prestige": "90",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -308,7 +308,7 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "65",
+					"prestige": "75",
 					"hexColor": "#14213D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -359,7 +359,7 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "59",
+					"prestige": "65",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -512,13 +512,13 @@
 				}
 			],
 			"confFullName": "Southeastern Conference",
-			"confPrestige": "74",
+			"confPrestige": "85",
 			"confName": "SEC"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "MICH",
-					"prestige": "85",
+					"prestige": "94",
 					"hexColor": "#00274C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "87",
+					"prestige": "75",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -722,7 +722,7 @@
 				},
 				{
 					"abbreviation": "MINN",
-					"prestige": "63",
+					"prestige": "70",
 					"hexColor": "#7A0019",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -824,7 +824,7 @@
 				},
 				{
 					"abbreviation": "PUR",
-					"prestige": "50",
+					"prestige": "65",
 					"hexColor": "#CEB888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -977,7 +977,7 @@
 				},
 				{
 					"abbreviation": "ILL",
-					"prestige": "40",
+					"prestige": "70",
 					"hexColor": "#E84A27",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1028,7 +1028,7 @@
 				}
 			],
 			"confFullName": "Big Ten Conference",
-			"confPrestige": "70",
+			"confPrestige": "80",
 			"confName": "B1G"
 		},
 		{
@@ -1085,7 +1085,7 @@
 				},
 				{
 					"abbreviation": "OKST",
-					"prestige": "76",
+					"prestige": "80",
 					"hexColor": "#FF7300",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1136,7 +1136,7 @@
 				},
 				{
 					"abbreviation": "KSU",
-					"prestige": "55",
+					"prestige": "75",
 					"hexColor": "#512888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1493,7 +1493,7 @@
 				},
 				{
 					"abbreviation": "KU",
-					"prestige": "25",
+					"prestige": "70",
 					"hexColor": "#0051BA",
 					"offCoordinator": {
 						"contractLength": "1",
@@ -1544,7 +1544,7 @@
 				}
 			],
 			"confFullName": "Big 12 Conference",
-			"confPrestige": "58",
+			"confPrestige": "70",
 			"confName": "XII"
 		},
 		{
@@ -1652,7 +1652,7 @@
 				},
 				{
 					"abbreviation": "TCU",
-					"prestige": "68",
+					"prestige": "90",
 					"hexColor": "#4D1979",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1698,7 +1698,7 @@
 						"name": "Gary Patterson",
 						"contractYear": "0"
 					},
-					"name": "Texas Christian Horned Frogs",
+					"name": "TCU Horned Frogs",
 					"state": "Texas"
 				},
 				{
@@ -1800,7 +1800,7 @@
 						"name": "Sonny Dykes",
 						"contractYear": "0"
 					},
-					"name": "Southern Methodist Mustangs",
+					"name": "SMU Mustangs",
 					"state": "Texas"
 				},
 				{
@@ -1856,7 +1856,7 @@
 				},
 				{
 					"abbreviation": "ARK",
-					"prestige": "60",
+					"prestige": "75",
 					"hexColor": "#9D2235",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2060,7 +2060,7 @@
 				}
 			],
 			"confFullName": "Southwest Conference",
-			"confPrestige": "59",
+			"confPrestige": "70",
 			"confName": "SWC"
 		},
 		{
@@ -2214,7 +2214,7 @@
 						"name": "Clay Helton",
 						"contractYear": "0"
 					},
-					"name": "Southern California Trojans",
+					"name": "USC Trojans",
 					"state": "California"
 				},
 				{
@@ -2372,7 +2372,7 @@
 				},
 				{
 					"abbreviation": "ORST",
-					"prestige": "55",
+					"prestige": "75",
 					"hexColor": "#DC4405",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2474,7 +2474,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "50",
+					"prestige": "70",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2520,7 +2520,7 @@
 						"name": "Chip Kelly",
 						"contractYear": "5"
 					},
-					"name": "Los Angeles Bruins",
+					"name": "UCLA Bruins",
 					"state": "California"
 				},
 				{
@@ -2576,7 +2576,7 @@
 				}
 			],
 			"confFullName": "Pacific Athletic Conference",
-			"confPrestige": "64",
+			"confPrestige": "70",
 			"confName": "PAC10"
 		},
 		{
@@ -2684,7 +2684,7 @@
 				},
 				{
 					"abbreviation": "UNC",
-					"prestige": "69",
+					"prestige": "75",
 					"hexColor": "#7BAFD4",
 					"offCoordinator": {
 						"contractLength": "3",
