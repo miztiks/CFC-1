@@ -803,7 +803,7 @@
 						"name": "Phil Parker",
 						"contractYear": "0"
 					},
-					"rival": "ILL",
+					"rival": "ILL", "ISU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -1136,7 +1136,7 @@
 				},
 				{
 					"abbreviation": "KSU",
-					"prestige": "80",
+					"prestige": "85",
 					"hexColor": "#512888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1217,7 +1217,7 @@
 						"name": "Jon Heacock",
 						"contractYear": "0"
 					},
-					"rival": "MIZZ",
+					"rival": "MIZZ", "IOWA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -1323,16 +1323,16 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "56",
-						"ratOff": "80",
+						"age": "50",
+						"ratOff": "86",
 						"cumulativePrestige": "0",
-						"ratDef": "66",
+						"ratDef": "80",
 						"homeState": "California",
-						"ratPot": "97",
+						"ratPot": "99",
 						"hometown": "Hillcrest",
-						"ratTalent": "49",
-						"baselinePrestige": "70",
-						"name": "Karl Dorrell",
+						"ratTalent": "65",
+						"baselinePrestige": "80",
+						"name": "Deion Sanders",
 						"contractYear": "0"
 					},
 					"name": "Colorado Buffaloes",
@@ -1698,7 +1698,7 @@
 						"name": "Gary Patterson",
 						"contractYear": "0"
 					},
-					"name": "Texas Christian Horned Frogs",
+					"name": "TCU Horned Frogs",
 					"state": "Texas"
 				},
 				{
@@ -1754,7 +1754,7 @@
 				},
 				{
 					"abbreviation": "SMU",
-					"prestige": "59",
+					"prestige": "45",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2117,7 +2117,7 @@
 				},
 				{
 					"abbreviation": "WASH",
-					"prestige": "79",
+					"prestige": "85",
 					"hexColor": "#4B2E83",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2214,7 +2214,7 @@
 						"name": "Clay Helton",
 						"contractYear": "0"
 					},
-					"name": "Southern California Trojans",
+					"name": "USC Trojans",
 					"state": "California"
 				},
 				{
@@ -2265,7 +2265,7 @@
 						"name": "David Shaw",
 						"contractYear": "0"
 					},
-					"name": "Stanford Cardinal",
+					"name": "Stanford Cardinals",
 					"state": "California"
 				},
 				{
@@ -2576,7 +2576,7 @@
 				}
 			],
 			"confFullName": "Pacific Athletic Conference",
-			"confPrestige": "64",
+			"confPrestige": "70",
 			"confName": "PAC10"
 		},
 		{
@@ -2612,7 +2612,7 @@
 						"name": "Brent Venables",
 						"contractYear": "0"
 					},
-					"rival": "SCAR",
+					"rival": "SCAR", "ND",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2663,7 +2663,7 @@
 						"name": "Marcus Freeman",
 						"contractYear": "0"
 					},
-					"rival": "WAKE",
+					"rival": "WAKE", "CLEM",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2786,7 +2786,7 @@
 				},
 				{
 					"abbreviation": "FSU",
-					"prestige": "75",
+					"prestige": "85",
 					"hexColor": "#782F40",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2816,7 +2816,7 @@
 						"name": "Adam Fuller",
 						"contractYear": "0"
 					},
-					"rival": "UMD",
+					"rival": "UMD", "FL",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3665,7 +3665,7 @@
 				},
 				{
 					"abbreviation": "FRES",
-					"prestige": "50",
+					"prestige": "65",
 					"hexColor": "#DB0032",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4181,7 +4181,7 @@
 				},
 				{
 					"abbreviation": "BYU",
-					"prestige": "80",
+					"prestige": "65",
 					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4538,7 +4538,7 @@
 				},
 				{
 					"abbreviation": "TLNE",
-					"prestige": "50",
+					"prestige": "70",
 					"hexColor": "#006747",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4640,7 +4640,7 @@
 				}
 			],
 			"confFullName": "American Athletic Conference",
-			"confPrestige": "56",
+			"confPrestige": "65",
 			"confName": "AAC"
 		},
 		{
