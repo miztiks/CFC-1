@@ -671,7 +671,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "77",
+					"prestige": "80",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1136,7 +1136,7 @@
 				},
 				{
 					"abbreviation": "KSU",
-					"prestige": "80",
+					"prestige": "85",
 					"hexColor": "#512888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1698,7 +1698,7 @@
 						"name": "Gary Patterson",
 						"contractYear": "0"
 					},
-					"name": "Texas Christian Horned Frogs",
+					"name": "TCU Horned Frogs",
 					"state": "Texas"
 				},
 				{
@@ -2117,7 +2117,7 @@
 				},
 				{
 					"abbreviation": "WASH",
-					"prestige": "79",
+					"prestige": "85",
 					"hexColor": "#4B2E83",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2214,7 +2214,7 @@
 						"name": "Clay Helton",
 						"contractYear": "0"
 					},
-					"name": "Southern California Trojans",
+					"name": "USC Trojans",
 					"state": "California"
 				},
 				{
@@ -2520,7 +2520,7 @@
 						"name": "Chip Kelly",
 						"contractYear": "5"
 					},
-					"name": "Los Angeles Bruins",
+					"name": "UCLA Bruins",
 					"state": "California"
 				},
 				{
@@ -2786,7 +2786,7 @@
 				},
 				{
 					"abbreviation": "FSU",
-					"prestige": "75",
+					"prestige": "85",
 					"hexColor": "#782F40",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3434,7 +3434,7 @@
 						"name": "Tony White",
 						"contractYear": "0"
 					},
-					"rival": "ROC",
+					"rival": "RUT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3454,7 +3454,7 @@
 					"state": "New York"
 				},
 				{
-					"abbreviation": "ROC",
+					"abbreviation": "RUT",
 					"prestige": "70",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
@@ -3501,8 +3501,8 @@
 						"name": "Greg Schiano",
 						"contractYear": "0"
 					},
-					"name": "Rochester Panthers",
-					"state": "New York"
+					"name": "Rutgers Scarlet Knights",
+					"state": "New Jersey"
 				},
 				{
 					"abbreviation": "BC",
@@ -4130,7 +4130,7 @@
 		{
 			"confTeams": [{
 					"abbreviation": "UTAH",
-					"prestige": "78",
+					"prestige": "85",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
