@@ -83,7 +83,7 @@
 						"name": "Todd Grantham",
 						"contractYear": "0"
 					},
-					"rival": "LSU",
+					"rival": "UM",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -389,7 +389,7 @@
 						"name": "Brad White",
 						"contractYear": "0"
 					},
-					"rival": "VAND",
+					"rival": "LSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -460,8 +460,8 @@
 					"state": "Mississippi"
 				},
 				{
-					"abbreviation": "VAND",
-					"prestige": "55",
+					"abbreviation": "UM",
+					"prestige": "80",
 					"hexColor": "#866D4B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -491,7 +491,7 @@
 						"name": "Jesse Minter",
 						"contractYear": "0"
 					},
-					"rival": "UK",
+					"rival": "UF",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -507,8 +507,8 @@
 						"name": "Clark Lea",
 						"contractYear": "0"
 					},
-					"name": "Vanderbilt Commodores",
-					"state": "Tennessee"
+					"name": "Miami Hurricanes",
+					"state": "Florida"
 				}
 			],
 			"confFullName": "Southeastern Conference",
@@ -3097,8 +3097,8 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "UM",
-					"prestige": "79",
+					"abbreviation": "VAND",
+					"prestige": "55",
 					"hexColor": "#005030",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3144,8 +3144,8 @@
 						"name": "Manny Diaz",
 						"contractYear": "0"
 					},
-					"name": "Miami Hurricanes",
-					"state": "Florida"
+					"name": "Vanderblit Commodres", 
+					"state": "Tennessee"
 				},
 				{
 					"abbreviation": "CIN",
