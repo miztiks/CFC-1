@@ -287,7 +287,7 @@
 						"name": "Daronte Jones",
 						"contractYear": "0"
 					},
-					"rival": "UF",
+					"rival": "UK",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -462,7 +462,7 @@
 				{
 					"abbreviation": "UM",
 					"prestige": "80",
-					"hexColor": "#866D4B",
+					"hexColor": "#005030",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3099,7 +3099,7 @@
 			"confTeams": [{
 					"abbreviation": "VAND",
 					"prestige": "55",
-					"hexColor": "#005030",
+					"hexColor": "#866D4B",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
