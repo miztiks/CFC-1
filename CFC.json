@@ -37,11 +37,11 @@
 						"contractLength": "6",
 						"startYear": "2021",
 						"age": "44",
-						"ratOff": "71",
+						"ratOff": "83",
 						"cumulativePrestige": "0",
-						"ratDef": "66",
+						"ratDef": "85",
 						"homeState": "Nevada",
-						"ratPot": "58",
+						"ratPot": "99",
 						"hometown": "Mesquite",
 						"ratTalent": "91",
 						"baselinePrestige": "95",
@@ -112,11 +112,11 @@
 						"age": "51",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
-						"ratPot": "59",
+						"ratPot": "75",
 						"hometown": "Waynesboro",
-						"ratTalent": "84",
+						"ratTalent": "90",
 						"baselinePrestige": "85",
-						"coachingAbility": "71",
+						"coachingAbility": "80",
 						"name": "Todd Monken",
 						"contractYear": "0"
 					},
@@ -139,14 +139,14 @@
 						"contractLength": "6",
 						"startYear": "2021",
 						"age": "45",
-						"ratOff": "58",
+						"ratOff": "90",
 						"cumulativePrestige": "0",
-						"ratDef": "63",
+						"ratDef": "90",
 						"homeState": "Tennessee",
-						"ratPot": "67",
+						"ratPot": "99",
 						"hometown": "Kyles Ford",
-						"ratTalent": "57",
-						"baselinePrestige": "85",
+						"ratTalent": "85",
+						"baselinePrestige": "95",
 						"name": "Kirby Smart",
 						"contractYear": "0"
 					},
@@ -303,7 +303,7 @@
 						"name": "Ed Orgeron",
 						"contractYear": "0"
 					},
-					"name": "Louisiana State Tigers",
+					"name": "LSU Tigers",
 					"state": "Louisiana"
 				},
 				{
@@ -701,7 +701,7 @@
 						"name": "Jim Leonhard",
 						"contractYear": "0"
 					},
-					"rival": "MINN",
+					"rival": "PENN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -721,9 +721,9 @@
 					"state": "Wisconsin"
 				},
 				{
-					"abbreviation": "MINN",
-					"prestige": "63",
-					"hexColor": "#7A0019",
+					"abbreviation": "PENN",
+					"prestige": "85",
+					"hexColor": "#00274C",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -768,8 +768,8 @@
 						"name": "PJ Fleck",
 						"contractYear": "0"
 					},
-					"name": "Minnesota Golden Gophers",
-					"state": "Minnesota"
+					"name": "Penn State Nittany Lions",
+					"state": "Pennsylvania"
 				},
 				{
 					"abbreviation": "IOWA",
@@ -1324,15 +1324,15 @@
 						"contractLength": "6",
 						"startYear": "2021",
 						"age": "56",
-						"ratOff": "80",
+						"ratOff": "95",
 						"cumulativePrestige": "0",
-						"ratDef": "66",
-						"homeState": "California",
+						"ratDef": "90",
+						"homeState": "Florida",
 						"ratPot": "97",
-						"hometown": "Hillcrest",
-						"ratTalent": "49",
+						"hometown": "Fort Myers",
+						"ratTalent": "70",
 						"baselinePrestige": "70",
-						"name": "Karl Dorrell",
+						"name": "Deion Sanders",
 						"contractYear": "0"
 					},
 					"name": "Colorado Buffaloes",
@@ -2218,9 +2218,9 @@
 					"state": "California"
 				},
 				{
-					"abbreviation": "STAN",
-					"prestige": "60",
-					"hexColor": "#8C1515",
+					"abbreviation": "BYU",
+					"prestige": "65",
+					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -2249,7 +2249,7 @@
 						"name": "Lance Anderson",
 						"contractYear": "0"
 					},
-					"rival": "CAL",
+					"rival": "UTAH",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2265,8 +2265,8 @@
 						"name": "David Shaw",
 						"contractYear": "0"
 					},
-					"name": "Stanford Cardinals",
-					"state": "California"
+					"name": "BYU Cougars",
+					"state": "Utah"
 				},
 				{
 					"abbreviation": "ASU",
@@ -2320,9 +2320,9 @@
 					"state": "Arizona"
 				},
 				{
-					"abbreviation": "CAL",
-					"prestige": "55",
-					"hexColor": "#FDB515",
+					"abbreviation": "UTAH",
+					"prestige": "85",
+					"hexColor": "#CC000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -2351,7 +2351,7 @@
 						"name": "Peter Sirmon",
 						"contractYear": "0"
 					},
-					"rival": "STAN",
+					"rival": "BYU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2367,8 +2367,8 @@
 						"name": "Justin Wilcox",
 						"contractYear": "0"
 					},
-					"name": "California Golden Bears",
-					"state": "California"
+					"name": "Utah Utes",
+					"state": "Utah"
 				},
 				{
 					"abbreviation": "ORST",
@@ -4129,9 +4129,9 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "UTAH",
-					"prestige": "85",
-					"hexColor": "#CC0000",
+					"abbreviation": "CAL",
+					"prestige": "55",
+					"hexColor": "#FDB515",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -4160,7 +4160,7 @@
 						"name": "Morgan Scalley",
 						"contractYear": "0"
 					},
-					"rival": "BYU",
+					"rival": "STAN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4176,13 +4176,13 @@
 						"name": "Kyle Wittingham",
 						"contractYear": "0"
 					},
-					"name": "Utah Utes",
-					"state": "Utah"
+					"name": "California Golden Bears",
+					"state": "California"
 				},
 				{
-					"abbreviation": "BYU",
-					"prestige": "69",
-					"hexColor": "#002E5D",
+					"abbreviation": "STAN",
+					"prestige": "45",
+					"hexColor": "#5D0011",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -4211,7 +4211,7 @@
 						"name": "Ilaisa Tuiaki",
 						"contractYear": "0"
 					},
-					"rival": "UTAH",
+					"rival": "CAL",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4227,8 +4227,8 @@
 						"name": "Kalani Sitake",
 						"contractYear": "0"
 					},
-					"name": "Brigham Young Cougars",
-					"state": "Utah"
+					"name": "Stanford Cardinals",
+					"state": "California"
 				},
 				{
 					"abbreviation": "UCF",
