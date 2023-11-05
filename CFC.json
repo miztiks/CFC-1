@@ -6,16 +6,14 @@
 		"CUSA": "XII",
 		"MWC": "PAC",
 		"AAC": "SWC"
-	}, 
-	"relegationRoutes": {
+	}, "relegationRoutes": {
     "SEC": "SUN",
     "B1G": "MAC",
     "ACC": "BEC",
     "XII": "CUSA",
     "PAC": "MWC",
     "AAC": "SWC"
-  },
-	"conferences": [{
+  },"conferences": [{
 			"confTeams": [{
 					"abbreviation": "BAMA",
 					"prestige": "95",
