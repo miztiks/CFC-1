@@ -1,5 +1,19 @@
 {
-	"conferences": [{
+	"promotionRoutes": {
+		"SUN": "SEC",
+		"MAC": "B1G",
+		"BEC": "ACC",
+		"CUSA": "XII",
+		"MWC": "PAC",
+		"AAC": "SWC"
+	},  "relegationRoutes": {
+    "SEC": "SUN",
+    "B1G": "MAC",
+    "ACC": "BEC",
+    "XII": "CUSA",
+    "PAC": "MWC",
+    "AAC": "SWC"
+  },"conferences": [{
 			"confTeams": [{
 					"abbreviation": "BAMA",
 					"prestige": "95",
