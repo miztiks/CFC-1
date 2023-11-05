@@ -1,5 +1,20 @@
 {
-	"conferences": [{
+  "promotionRoutes": {
+    "SUN": "SEC",
+    "MAC": "B1G",
+    "BEC": "ACC",
+    "CUSA": "XII",
+    "MWC": "PAC",
+    "AAC": "SWC"
+  },
+  "relegationRoutes": {
+    "SEC": "SUN",
+    "B1G": "MAC",
+    "ACC": "BEC",
+    "XII": "CUSA",
+    "PAC": "MWC",
+    "SWC": "AAC"
+  }, "conferences": [{
 			"confTeams": [{
 					"abbreviation": "BAMA",
 					"prestige": "95",
@@ -32,16 +47,16 @@
 						"name": "Pete Golding",
 						"contractYear": "0"
 					},
-					"rival": "AUB", "UGA","TENN",
+					"rival": "AUB",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
 						"age": "44",
-						"ratOff": "71",
+						"ratOff": "83",
 						"cumulativePrestige": "0",
-						"ratDef": "66",
+						"ratDef": "85",
 						"homeState": "Nevada",
-						"ratPot": "58",
+						"ratPot": "99",
 						"hometown": "Mesquite",
 						"ratTalent": "91",
 						"baselinePrestige": "95",
@@ -83,7 +98,7 @@
 						"name": "Todd Grantham",
 						"contractYear": "0"
 					},
-					"rival": "LSU",
+					"rival": "UM",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -104,7 +119,7 @@
 				},
 				{
 					"abbreviation": "UGA",
-					"prestige": "95",
+					"prestige": "90",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -112,11 +127,11 @@
 						"age": "51",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
-						"ratPot": "59",
+						"ratPot": "75",
 						"hometown": "Waynesboro",
-						"ratTalent": "84",
+						"ratTalent": "90",
 						"baselinePrestige": "85",
-						"coachingAbility": "71",
+						"coachingAbility": "80",
 						"name": "Todd Monken",
 						"contractYear": "0"
 					},
@@ -134,19 +149,19 @@
 						"name": "Dan Lanning",
 						"contractYear": "0"
 					},
-					"rival": "TENN","BAMA",
+					"rival": "TENN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
 						"age": "45",
-						"ratOff": "58",
+						"ratOff": "90",
 						"cumulativePrestige": "0",
-						"ratDef": "63",
+						"ratDef": "90",
 						"homeState": "Tennessee",
-						"ratPot": "67",
+						"ratPot": "99",
 						"hometown": "Kyles Ford",
-						"ratTalent": "57",
-						"baselinePrestige": "85",
+						"ratTalent": "85",
+						"baselinePrestige": "95",
 						"name": "Kirby Smart",
 						"contractYear": "0"
 					},
@@ -155,7 +170,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "88",
+					"prestige": "90",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -185,7 +200,7 @@
 						"name": "Tim Banks",
 						"contractYear": "0"
 					},
-					"rival": "UGA","BAMA",
+					"rival": "UGA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -257,7 +272,7 @@
 				},
 				{
 					"abbreviation": "LSU",
-					"prestige": "90",
+					"prestige": "85",
 					"hexColor": "#461D7C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -287,7 +302,7 @@
 						"name": "Daronte Jones",
 						"contractYear": "0"
 					},
-					"rival": "UF",
+					"rival": "UK",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -303,7 +318,7 @@
 						"name": "Ed Orgeron",
 						"contractYear": "0"
 					},
-					"name": "Louisiana State Tigers",
+					"name": "LSU Tigers",
 					"state": "Louisiana"
 				},
 				{
@@ -359,7 +374,7 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "75",
+					"prestige": "69",
 					"hexColor": "#0033A0",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -389,7 +404,7 @@
 						"name": "Brad White",
 						"contractYear": "0"
 					},
-					"rival": "VAND",
+					"rival": "LSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -409,8 +424,8 @@
 					"state": "Kentucky"
 				},
 				{
-					"abbreviation": "UMD",
-					"prestige": "80",
+					"abbreviation": "MSST",
+					"prestige": "70",
 					"hexColor": "#660000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -456,13 +471,13 @@
 						"name": "Mike Leach",
 						"contractYear": "0"
 					},
-					"name": "Meridan Raging Blue",
+					"name": "Mississippi State Bulldogs",
 					"state": "Mississippi"
 				},
 				{
-					"abbreviation": "VAND",
-					"prestige": "55",
-					"hexColor": "#866D4B",
+					"abbreviation": "UM",
+					"prestige": "80",
+					"hexColor": "#005030",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -491,7 +506,7 @@
 						"name": "Jesse Minter",
 						"contractYear": "0"
 					},
-					"rival": "UK",
+					"rival": "UF",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -507,18 +522,18 @@
 						"name": "Clark Lea",
 						"contractYear": "0"
 					},
-					"name": "Vanderbilt Commodores",
-					"state": "Tennessee"
+					"name": "Miami Hurricanes",
+					"state": "Florida"
 				}
 			],
 			"confFullName": "Southeastern Conference",
-			"confPrestige": "74",
+			"confPrestige": "80",
 			"confName": "SEC"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "MICH",
-					"prestige": "95",
+					"prestige": "93",
 					"hexColor": "#00274C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -620,7 +635,7 @@
 				},
 				{
 					"abbreviation": "MSU",
-					"prestige": "77",
+					"prestige": "70",
 					"hexColor": "#18453B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -701,7 +716,7 @@
 						"name": "Jim Leonhard",
 						"contractYear": "0"
 					},
-					"rival": "MINN",
+					"rival": "PENN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -721,9 +736,9 @@
 					"state": "Wisconsin"
 				},
 				{
-					"abbreviation": "MINN",
-					"prestige": "63",
-					"hexColor": "#7A0019",
+					"abbreviation": "PENN",
+					"prestige": "85",
+					"hexColor": "#00274C",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -768,8 +783,8 @@
 						"name": "PJ Fleck",
 						"contractYear": "0"
 					},
-					"name": "Minnesota Golden Gophers",
-					"state": "Minnesota"
+					"name": "Penn State Nittany Lions",
+					"state": "Pennsylvania"
 				},
 				{
 					"abbreviation": "IOWA",
@@ -803,7 +818,7 @@
 						"name": "Phil Parker",
 						"contractYear": "0"
 					},
-					"rival": "ILL", "ISU",
+					"rival": "ILL",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -824,7 +839,7 @@
 				},
 				{
 					"abbreviation": "PUR",
-					"prestige": "75",
+					"prestige": "60",
 					"hexColor": "#CEB888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -875,7 +890,7 @@
 				},
 				{
 					"abbreviation": "IND",
-					"prestige": "70",
+					"prestige": "59",
 					"hexColor": "#990000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -926,7 +941,7 @@
 				},
 				{
 					"abbreviation": "NW",
-					"prestige": "70",
+					"prestige": "65",
 					"hexColor": "#4E2A84",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -977,7 +992,7 @@
 				},
 				{
 					"abbreviation": "ILL",
-					"prestige": "70",
+					"prestige": "40",
 					"hexColor": "#E84A27",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1028,13 +1043,13 @@
 				}
 			],
 			"confFullName": "Big Ten Conference",
-			"confPrestige": "70",
+			"confPrestige": "80",
 			"confName": "B1G"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "OU",
-					"prestige": "90",
+					"prestige": "92",
 					"hexColor": "#841617",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1085,7 +1100,7 @@
 				},
 				{
 					"abbreviation": "OKST",
-					"prestige": "80",
+					"prestige": "82",
 					"hexColor": "#FF7300",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1187,7 +1202,7 @@
 				},
 				{
 					"abbreviation": "ISU",
-					"prestige": "70",
+					"prestige": "60",
 					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1217,7 +1232,7 @@
 						"name": "Jon Heacock",
 						"contractYear": "0"
 					},
-					"rival": "MIZZ", "IOWA",
+					"rival": "MIZZ",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -1323,15 +1338,15 @@
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
-						"age": "50",
-						"ratOff": "86",
+						"age": "56",
+						"ratOff": "95",
 						"cumulativePrestige": "0",
-						"ratDef": "80",
-						"homeState": "California",
-						"ratPot": "99",
-						"hometown": "Hillcrest",
-						"ratTalent": "65",
-						"baselinePrestige": "80",
+						"ratDef": "90",
+						"homeState": "Florida",
+						"ratPot": "97",
+						"hometown": "Fort Myers",
+						"ratTalent": "70",
+						"baselinePrestige": "70",
 						"name": "Deion Sanders",
 						"contractYear": "0"
 					},
@@ -1390,9 +1405,9 @@
 					"state": "Nebraska"
 				},
 				{
-					"abbreviation": "TLSA",
-					"prestige": "47",
-					"hexColor": "#002D72",
+					"abbreviation": "LOU",
+					"prestige": "65",
+					"hexColor": "#AD0000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1437,8 +1452,8 @@
 						"name": "Phillip Montgomery",
 						"contractYear": "0"
 					},
-					"name": "Tulsa Golden Hurricanes",
-					"state": "Oklahoma"
+					"name": "Louisville Cardinals",
+					"state": "Kentucky"
 				},
 				{
 					"abbreviation": "CSU",
@@ -1493,7 +1508,7 @@
 				},
 				{
 					"abbreviation": "KU",
-					"prestige": "60",
+					"prestige": "25",
 					"hexColor": "#0051BA",
 					"offCoordinator": {
 						"contractLength": "1",
@@ -1544,13 +1559,13 @@
 				}
 			],
 			"confFullName": "Big 12 Conference",
-			"confPrestige": "58",
+			"confPrestige": "75",
 			"confName": "XII"
 		},
 		{
 			"confTeams": [{
 					"abbreviation": "UT",
-					"prestige": "86",
+					"prestige": "91",
 					"hexColor": "#BF5700",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1652,7 +1667,7 @@
 				},
 				{
 					"abbreviation": "TCU",
-					"prestige": "92",
+					"prestige": "90",
 					"hexColor": "#4D1979",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1703,7 +1718,7 @@
 				},
 				{
 					"abbreviation": "BAY",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#003015",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1753,9 +1768,9 @@
 					"state": "Texas"
 				},
 				{
-					"abbreviation": "SMU",
-					"prestige": "45",
-					"hexColor": "#C8102E",
+					"abbreviation": "CIN",
+					"prestige": "65",
+					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1784,7 +1799,7 @@
 						"name": "Jim Leavitt",
 						"contractYear": "0"
 					},
-					"rival": "HOU",
+					"rival": "PITT",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -1800,8 +1815,8 @@
 						"name": "Sonny Dykes",
 						"contractYear": "0"
 					},
-					"name": "Southern Methodist Mustangs",
-					"state": "Texas"
+					"name": "Cincinatti Bearcats",
+					"state": "Ohio"
 				},
 				{
 					"abbreviation": "HOU",
@@ -1856,7 +1871,7 @@
 				},
 				{
 					"abbreviation": "ARK",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#9D2235",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1957,9 +1972,9 @@
 					"state": "Texas"
 				},
 				{
-					"abbreviation": "UTEP",
-					"prestige": "35",
-					"hexColor": "#FF8200",
+					"abbreviation": "WVU",
+					"prestige": "60",
+					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -1988,7 +2003,7 @@
 						"name": "Bradley Dale Peveto",
 						"contractYear": "0"
 					},
-					"rival": "RICE",
+					"rival": "TTU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2004,13 +2019,13 @@
 						"name": "Dana Dimel",
 						"contractYear": "0"
 					},
-					"name": "El Paso Miners",
-					"state": "Texas"
+					"name": "West Virginia Mountaineers",
+					"state": "West Virginia"
 				},
 				{
-					"abbreviation": "RICE",
-					"prestige": "35",
-					"hexColor": "#00205B",
+					"abbreviation": "PITT",
+					"prestige": "65",
+					"hexColor": "#003594",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -2039,7 +2054,7 @@
 						"name": "Brian Smith",
 						"contractYear": "0"
 					},
-					"rival": "UTEP",
+					"rival": "CIN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2055,12 +2070,12 @@
 						"name": "Mike Bloomgren",
 						"contractYear": "0"
 					},
-					"name": "Rice Owls",
-					"state": "Texas"
+					"name": "Pittsburgh Panthers",
+					"state": "Pennsylvania"
 				}
 			],
 			"confFullName": "Southwest Conference",
-			"confPrestige": "75",
+			"confPrestige": "70",
 			"confName": "SWC"
 		},
 		{
@@ -2168,7 +2183,7 @@
 				},
 				{
 					"abbreviation": "USC",
-					"prestige": "94",
+					"prestige": "91",
 					"hexColor": "#990000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2218,9 +2233,9 @@
 					"state": "California"
 				},
 				{
-					"abbreviation": "STAN",
-					"prestige": "60",
-					"hexColor": "#8C1515",
+					"abbreviation": "BYU",
+					"prestige": "65",
+					"hexColor": "#002E5D",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -2249,7 +2264,7 @@
 						"name": "Lance Anderson",
 						"contractYear": "0"
 					},
-					"rival": "CAL",
+					"rival": "UTAH",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2265,8 +2280,8 @@
 						"name": "David Shaw",
 						"contractYear": "0"
 					},
-					"name": "Stanford Cardinals",
-					"state": "California"
+					"name": "BYU Cougars",
+					"state": "Utah"
 				},
 				{
 					"abbreviation": "ASU",
@@ -2320,9 +2335,9 @@
 					"state": "Arizona"
 				},
 				{
-					"abbreviation": "CAL",
-					"prestige": "70",
-					"hexColor": "#FDB515",
+					"abbreviation": "UTAH",
+					"prestige": "85",
+					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -2351,7 +2366,7 @@
 						"name": "Peter Sirmon",
 						"contractYear": "0"
 					},
-					"rival": "STAN",
+					"rival": "BYU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2367,8 +2382,8 @@
 						"name": "Justin Wilcox",
 						"contractYear": "0"
 					},
-					"name": "California Golden Bears",
-					"state": "California"
+					"name": "Utah Utes",
+					"state": "Utah"
 				},
 				{
 					"abbreviation": "ORST",
@@ -2474,7 +2489,7 @@
 				},
 				{
 					"abbreviation": "UCLA",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#2D68C4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2576,7 +2591,7 @@
 				}
 			],
 			"confFullName": "Pacific Athletic Conference",
-			"confPrestige": "70",
+			"confPrestige": "74",
 			"confName": "PAC10"
 		},
 		{
@@ -2612,7 +2627,7 @@
 						"name": "Brent Venables",
 						"contractYear": "0"
 					},
-					"rival": "SCAR", "ND",
+					"rival": "SCAR",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2663,7 +2678,7 @@
 						"name": "Marcus Freeman",
 						"contractYear": "0"
 					},
-					"rival": "WAKE", "CLEM",
+					"rival": "WAKE",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2684,7 +2699,7 @@
 				},
 				{
 					"abbreviation": "UNC",
-					"prestige": "77",
+					"prestige": "79",
 					"hexColor": "#7BAFD4",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2786,7 +2801,7 @@
 				},
 				{
 					"abbreviation": "FSU",
-					"prestige": "85",
+					"prestige": "90",
 					"hexColor": "#782F40",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2816,7 +2831,7 @@
 						"name": "Adam Fuller",
 						"contractYear": "0"
 					},
-					"rival": "UMD", "FL",
+					"rival": "UMD",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -2837,7 +2852,7 @@
 				},
 				{
 					"abbreviation": "SCAR",
-					"prestige": "75",
+					"prestige": "70",
 					"hexColor": "#73000A",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -2939,7 +2954,7 @@
 				},
 				{
 					"abbreviation": "NCST",
-					"prestige": "80",
+					"prestige": "70",
 					"hexColor": "#CC0000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3092,14 +3107,14 @@
 				}
 			],
 			"confFullName": "Atlantic Coast Conference",
-			"confPrestige": "67",
+			"confPrestige": "75",
 			"confName": "ACC"
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "UM",
-					"prestige": "79",
-					"hexColor": "#005030",
+					"abbreviation": "VAND",
+					"prestige": "55",
+					"hexColor": "#000000",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3144,13 +3159,13 @@
 						"name": "Manny Diaz",
 						"contractYear": "0"
 					},
-					"name": "Miami FL Hurricanes",
-					"state": "Florida"
+					"name": "Vanderblit Commodres", 
+					"state": "Tennessee"
 				},
 				{
-					"abbreviation": "CIN",
-					"prestige": "75",
-					"hexColor": "#000000",
+					"abbreviation": "UTEP",
+					"prestige": "45",
+					"hexColor": "#0C2340",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3195,13 +3210,13 @@
 						"name": "Luke Fickell",
 						"contractYear": "0"
 					},
-					"name": "Cincinnati Bearcats",
-					"state": "Ohio"
+					"name": "El Paso Miners",
+					"state": "Texas"
 				},
 				{
-					"abbreviation": "UL",
-					"prestige": "65",
-					"hexColor": "#AD0000",
+					"abbreviation": "TLSA",
+					"prestige": "40",
+					"hexColor": "#0C2340",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3246,13 +3261,13 @@
 						"name": "Scott Satterfield",
 						"contractYear": "0"
 					},
-					"name": "Louisville Cardinals",
-					"state": "Kentucky"
+					"name": "Tulsa Golden Hurricanes",
+					"state": "Oklahoma"
 				},
 				{
-					"abbreviation": "PITT",
-					"prestige": "65",
-					"hexColor": "#003594",
+					"abbreviation": "RICE",
+					"prestige": "30",
+					"hexColor": "#0C2340",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3297,13 +3312,13 @@
 						"name": "Pat Narduzzi",
 						"contractYear": "0"
 					},
-					"name": "Pittsburgh Panthers",
-					"state": "Pennsylvania"
+					"name": "Rice Owls",
+					"state": "Texas"
 				},
 				{
-					"abbreviation": "WVU",
-					"prestige": "60",
-					"hexColor": "#002855",
+					"abbreviation": "SMU",
+					"prestige": "45",
+					"hexColor": "#C8102E",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -3348,8 +3363,8 @@
 						"name": "Neal Brown",
 						"contractYear": "0"
 					},
-					"name": "West Virginia Mountaineers",
-					"state": "West Virginia"
+					"name": "SMU Mustangs",
+					"state": "Texas"
 				},
 				{
 					"abbreviation": "VT",
@@ -3455,7 +3470,7 @@
 				},
 				{
 					"abbreviation": "RUT",
-					"prestige": "40",
+					"prestige": "70",
 					"hexColor": "#CC0033",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -3608,7 +3623,7 @@
 				}
 			],
 			"confFullName": "Big East Conference",
-			"confPrestige": "60",
+			"confPrestige": "70",
 			"confName": "BEC"
 		},
 		{
@@ -3665,7 +3680,7 @@
 				},
 				{
 					"abbreviation": "FRES",
-					"prestige": "65",
+					"prestige": "50",
 					"hexColor": "#DB0032",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4129,9 +4144,9 @@
 		},
 		{
 			"confTeams": [{
-					"abbreviation": "UTAH",
-                                        "prestige": "85",
-					"hexColor": "#CC0000",
+					"abbreviation": "CAL",
+					"prestige": "55",
+					"hexColor": "#FDB515",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -4160,7 +4175,7 @@
 						"name": "Morgan Scalley",
 						"contractYear": "0"
 					},
-					"rival": "BYU",
+					"rival": "STAN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4176,13 +4191,13 @@
 						"name": "Kyle Wittingham",
 						"contractYear": "0"
 					},
-					"name": "Utah Utes",
-					"state": "Utah"
+					"name": "California Golden Bears",
+					"state": "California"
 				},
 				{
-					"abbreviation": "BYU",
-					"prestige": "65",
-					"hexColor": "#002E5D",
+					"abbreviation": "STAN",
+					"prestige": "45",
+					"hexColor": "#5D0011",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2021",
@@ -4211,7 +4226,7 @@
 						"name": "Ilaisa Tuiaki",
 						"contractYear": "0"
 					},
-					"rival": "UTAH",
+					"rival": "CAL",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -4227,8 +4242,8 @@
 						"name": "Kalani Sitake",
 						"contractYear": "0"
 					},
-					"name": "Brigham Young Cougars",
-					"state": "Utah"
+					"name": "Stanford Cardinals",
+					"state": "California"
 				},
 				{
 					"abbreviation": "UCF",
@@ -4538,7 +4553,7 @@
 				},
 				{
 					"abbreviation": "TLNE",
-					"prestige": "70",
+					"prestige": "50",
 					"hexColor": "#006747",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -4640,7 +4655,7 @@
 				}
 			],
 			"confFullName": "American Athletic Conference",
-			"confPrestige": "65",
+			"confPrestige": "56",
 			"confName": "AAC"
 		},
 		{
@@ -4743,7 +4758,7 @@
 						"name": "Bill Clark",
 						"contractYear": "0"
 					},
-					"name": "UAB Blazers",
+					"name": "Birmingham Blazers",
 					"state": "Alabama"
 				},
 				{
@@ -5049,7 +5064,7 @@
 						"name": "Jeff Traylor",
 						"contractYear": "0"
 					},
-					"name": "UTSA Roadrunners",
+					"name": "San Antonio Roadrunners",
 					"state": "Texas"
 				},
 				{
