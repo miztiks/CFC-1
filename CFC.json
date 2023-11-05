@@ -1,6 +1,6 @@
 {
   "promotionRoutes": {
-    "SUN": "SEC",
+    "SBC": "SEC",
     "MAC": "B1G",
     "BEC": "ACC",
     "CUSA": "XII",
@@ -8,7 +8,7 @@
     "AAC": "SWC"
   },
   "relegationRoutes": {
-    "SEC": "SUN",
+    "SEC": "SBC",
     "B1G": "MAC",
     "ACC": "BEC",
     "XII": "CUSA",
