@@ -4,7 +4,7 @@
     "MAC": "B1G",
     "BEC": "ACC",
     "CUSA": "XII",
-    "MWC": "PAC",
+    "MWC": "PAC10",
     "AAC": "SWC"
   },
   "relegationRoutes": {
@@ -12,7 +12,7 @@
     "B1G": "MAC",
     "ACC": "BEC",
     "XII": "CUSA",
-    "PAC": "MWC",
+    "PAC10": "MWC",
     "SWC": "AAC"
   }, "conferences": [{
 			"confTeams": [{
